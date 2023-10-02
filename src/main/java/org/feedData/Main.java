@@ -52,7 +52,7 @@ public class Main {
 public static Connection db;
 
 //public static String serverurl="http://217.160.150.140:8080";
-public static String serverurl="http://35.239.135.31:8080";
+public static String serverurl="https://aims.us.to:8080";
 public static void main(String []args) {
 
     try {
